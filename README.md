@@ -1,4 +1,4 @@
-# 你好! 我叫 Teddypyf~
+# 你好! 我叫Ted
 
 我擅长使用 Python, LaTeX 和 Shell 脚本编程.
 
